@@ -1,2 +1,2 @@
-# Capstone_prj
+# html-capstone
 Progetto Capstone CV
